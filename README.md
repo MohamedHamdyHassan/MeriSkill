@@ -1,2 +1,0 @@
-# MeriSkill
-MeriSkill Tasks (Internship)
